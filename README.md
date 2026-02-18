@@ -1,5 +1,3 @@
-## PGP
-
 ### Fingerprint
 
 `B1E1 99A5 BE27 C8E1 5CC4  A489 904B 0936 DBED EAB0`
